@@ -3,13 +3,13 @@
 
 
 <br>
-![Top Langs]
+
 
 <center>
 <table>
     <tr>
         <td><img width="400px" align="left" src="![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jesseantonio&count_private=true&theme=default&showicons=true&show_icons=true&hide=issues,stars&hide_border=true&custom_title=Minhas⠀Conquistas&icon_color=333D57&title_color=333D57&count_private=true)"/></td>
-        <td><img width="495px" align="left" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&hide_border=true&custom_title=Minhas⠀Linguagens&icon_color=000000&title_color=000000&count_private=true)"/></td>
+        <td><img width="495px" align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&hide_border=true&custom_title=Minhas⠀Linguagens&icon_color=000000&title_color=000000&count_private=true)"/></td>
     </tr>   
 </table>
 </center>  
