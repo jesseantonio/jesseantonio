@@ -17,4 +17,6 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
 </center>
 <hr>
 ![](https://komarev.com/ghpvc/?username=jesseantonio)
+![](https://komarev.com/ghpvc/?username=jesseantonio&color=green)
+
 
