@@ -14,5 +14,7 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57&custom_title=Minhas⠀Linguagens" /></td>
     </tr>   
 </table>
-</center>  
+</center>
+<hr>
+![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
 
