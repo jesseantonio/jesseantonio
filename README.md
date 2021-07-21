@@ -5,7 +5,7 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
 <blockquote>“Você pode criar qualquer coisa: basta escrever”</blockquote> – <i>C. S. Lewis</i>
 <hr>
 <h4>Contato</h4>
-<a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/jessé-antônio-773a79217/)  
+<a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/linkedin.png" width="13"></img></a> <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-773a79217/"> LinkedIn</a>
 <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=trues&icon_color=333D57&title_color=333D57&custom_title=Minhas⠀Conquistas"/></td>
