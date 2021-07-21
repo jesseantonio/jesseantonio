@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=trues&icon_color=333D57&title_color=333D57&custom_title=Minhas⠀Conquistas"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&hide=html&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57&custom_title=Minhas⠀Linguagens" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57&custom_title=Minhas⠀Linguagens" /></td>
     </tr>   
 </table>
 </center>  
