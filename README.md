@@ -5,7 +5,7 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
 <blockquote>“Você pode criar qualquer coisa: basta escrever”</blockquote> – <i>C. S. Lewis</i>
 <hr>
 <h4>Contato</h4>
-<a href="https://www.google.com.br/">Google</a>
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><a href="https://www.google.com.br/">Google</a>
 <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=trues&icon_color=333D57&title_color=333D57&custom_title=Minhas⠀Conquistas"/></td>
