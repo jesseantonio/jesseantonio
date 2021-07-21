@@ -2,7 +2,7 @@
 <hr>
 Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, desde pequeno sempre fui apaixonado por essa área.
 <hr>
-“Você pode criar qualquer coisa: basta escrever” – C. S. Lewis
+<blockquote>“Você pode criar qualquer coisa: basta escrever”</blockquote> – C. S. Lewis
 <hr>
 <table>
     <tr>
