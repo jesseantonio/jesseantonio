@@ -17,7 +17,7 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&hide=html&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&show_icons=true&hide=issues,stars&hide_border=true&custom_title=Minhas⠀Conquistas&icon_color=333D57&title_color=333D57&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&hide=html&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=true&custom_title=Minhas⠀Conquistas&icon_color=333D57&title_color=333D57"/></td>
     </tr>   
 </table>
