@@ -6,7 +6,7 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
 <hr>
 <h4>Contato</h4>
 <a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/linkedin (1).png" width="16"></img></a> <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-773a79217/"> LinkedIn</a> <br>
-<a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/gmail.png" width="16"></img></a><a href="mailto:jesseantonio1321@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/gmail.png" width="16"></img></a><a href="mailto:jesseantonio1321@gmail.com"> Email</a>
 <hr>
 <table>
     <tr>
@@ -16,5 +16,4 @@ Me chamo Jessé Antônio Effting Serpa. Sou estudante de JavaScript e React, des
 </table>
 </center>
 <hr>
-<a href=""?Subject=Título%20da%20mensagem">Enviar email</a> 
 
