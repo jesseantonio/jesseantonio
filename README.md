@@ -11,7 +11,7 @@ My name is Jessé Antônio Effting Serpa. Currently learning Java ☕ .
 <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=trues&icon_color=333D57&title_color=333D57&custom_title=Stats"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57&custom_title=Linguagens" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&theme=buefy&count_private=true&theme=default&showicons=true&title_color=333D57&custom_title=" /></td>
     </tr>   
 </div>
 </table>
