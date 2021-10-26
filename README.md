@@ -3,10 +3,10 @@
 <hr>
 <blockquote>“You can make anything by writing”</blockquote> – <i>C. S. Lewis</i>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=buefy&hide=issues,stars&hide_border=trues&icon_color=333D57&title_color=333D57&custom_title=Stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 <hr>
