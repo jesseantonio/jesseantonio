@@ -3,14 +3,16 @@
 <hr>
 <blockquote>“You can make anything by writing”</blockquote> – <i>C. S. Lewis</i>
 <hr>
+<div align="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=dark&hide=issues,stars&hide_border=trues&icon_color=333D57&custom_title=Stats" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&&hide=issues,stars&hide_border=trues&icon_color=000000&custom_title=Stats&title_color=000000" width="400" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&theme=dark&hide_title=true" width="380" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&hide_title=true&hide_border=true" width="380" />
 </a>
+</div>
 <hr>
-<h4>Contact</h4>
+<h3>Contact</h3>
 <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-effting-serpa-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/linkedin (1).png" width="16"></img></a> <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-effting-serpa-773a79217/"> LinkedIn</a> <br>
 <a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/gmail.png" width="16"></img></a><a href="mailto:jesseantonio1321@gmail.com"> Email</a>
 
