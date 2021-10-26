@@ -4,10 +4,10 @@
 <blockquote>“You can make anything by writing”</blockquote> – <i>C. S. Lewis</i>
 <hr>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=dark&show_icons=true" width="460" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=dark&show_icons=true" width="360" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=dark&show_icons=true" width="460" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&theme=dark&show_icons=true" width="360" />
 </a>
 <hr>
 <h4>Contact</h4>
