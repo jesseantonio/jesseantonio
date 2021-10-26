@@ -14,3 +14,6 @@
 <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-effting-serpa-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/linkedin (1).png" width="16"></img></a> <a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-effting-serpa-773a79217/"> LinkedIn</a> <br>
 <a href="https://www.linkedin.com/in/jessé-antônio-773a79217/"><img src="https://github.com/jesseantonio/jesseantonio/blob/main/gmail.png" width="16"></img></a><a href="mailto:jesseantonio1321@gmail.com"> Email</a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesseantonio&show_icons=true&locale=en&layout=compact" alt="jesseantonio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&show_icons=true&locale=en" alt="jesseantonio" /></p>
