@@ -4,7 +4,7 @@
 <hr>
 <div align="center">
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&&hide=issues,stars&hide_border=trues&icon_color=000000&custom_title=Stats&title_color=000000" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesseantonio&&hide=issues&hide_border=trues&icon_color=000000&custom_title=Stats&title_color=000000" width="400" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesseantonio&layout=compact&hide_title=true&hide_border=true" width="380" />
