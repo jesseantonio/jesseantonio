@@ -12,7 +12,7 @@
 </div>
 <hr>
 <h3>Contact</h3>
-<a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-773a79217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jess%C3%A9-ant%C3%B4nio-effting-serpa-773a79217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:jesseantonio1321@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
